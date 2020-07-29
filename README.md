@@ -1,4 +1,4 @@
-RXJS crashcourse
+# RXJS crash course
 
 RXJS library is for creating reactive programs by comosing asynchronous and event-based programs. 
 
